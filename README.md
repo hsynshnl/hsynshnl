@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 
 <h3 align="center">I am developing mobile applications as a beginner.</h3>
-<img src="https://media4.giphy.com/media/8vHSt3vau0pFh0ZemM/giphy.gif?cid=ecf05e47tlev6nji18wx05xty1h94op0722gsjbw08kwh9x1&rid=giphy.gif&ct=g" width="600" height="150" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsynshnl&label=Profile%20views&color=0e75b6&style=flat" alt="hsynshnl" /> </p>
 
