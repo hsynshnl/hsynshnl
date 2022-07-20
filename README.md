@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">I am developing mobile applications as a beginner.</h3>
 
+<h3 align="center">I am developing mobile applications as a beginner.</h3>
+<img src=https://giphy.com/gifs/warcraft-world-of-warcraft-battle-for-azeroth-8vHSt3vau0pFh0ZemM" width="1000" height="550" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsynshnl&label=Profile%20views&color=0e75b6&style=flat" alt="hsynshnl" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
