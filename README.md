@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br><br>🌐 Check out my portfolio website huseyinsahinli.me<br><br>📫Contact me huseyinsahinli01@gmail.com
+🌱 I’m currently learning Flutter<br><br>🌐 Check out my portfolio website www.huseyinsahinli.me<br><br>📫Contact me huseyinsahinli01@gmail.com
 
 
 ## 🌐 Socials:
