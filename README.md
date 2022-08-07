@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br><br>💬 Ask me about mobile application development<br><br>📫 How to reach me huseyinsahinli01@gmail.com
+🌱 I’m currently learning Flutter<br><br>📫 How to reach me huseyinsahinli01@gmail.com
 
 
 ## 🌐 Socials:
